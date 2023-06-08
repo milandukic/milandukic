@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Milan Dukic</h2>
+<h2>Hey there!😂 I'm Milan Dukic</h2>
 <hr/>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -11,7 +11,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="130"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="height: 130px;" />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -38,4 +38,4 @@
 
 -----
 
-Last Edited on: 01/10/2023
+📅 Last Edited on: 01/10/2023
