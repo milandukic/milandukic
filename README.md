@@ -1,8 +1,9 @@
 <h2>Hey there!😂 I'm Milan Dukic</h2>
-<hr/>
+
+![](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<hr/>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm majored Bachelor's degree in Computer Science.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
@@ -10,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
 ### 🛠 &nbsp;Tech Stack
-
+<hr/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="height: 130px;" />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
