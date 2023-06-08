@@ -11,7 +11,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img height="150em" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milandukic&theme=github_dark" />
+<img height="145em" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milandukic&theme=github_dark" />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
