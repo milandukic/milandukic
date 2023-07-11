@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)
-<h2>Hey there!😂 I'm Milan Dukic</h2>
+<h2>Hey there!😂</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
